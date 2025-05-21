@@ -1,5 +1,5 @@
 class Konyv:
-    def __init__(self, nev, szul_ev, hal_ev, nemzetiseg, cim, helyezes)
+    def __init__(self, nev, szul_ev, hal_ev, nemzetiseg, cim, helyezes):
         self.nev = nev
         self.szul_ev = szul_ev
         self.hal_ev = hal_ev
